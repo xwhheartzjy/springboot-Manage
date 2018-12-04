@@ -1,0 +1,4 @@
+14:10:12.765 [http-nio-80-exec-7] INFO  sys-user - [0:0:0:0:0:0:0:1][admin][Success][登录成功]
+14:30:49.927 [http-nio-80-exec-1] INFO  sys-user - [0:0:0:0:0:0:0:1][admin][Logout][退出成功]
+14:31:26.218 [http-nio-80-exec-8] INFO  sys-user - [0:0:0:0:0:0:0:1][admin][Error][验证码错误]
+14:31:36.934 [http-nio-80-exec-7] INFO  sys-user - [0:0:0:0:0:0:0:1][admin][Success][登录成功]

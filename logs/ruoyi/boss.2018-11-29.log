@@ -1,0 +1,5 @@
+08:16:29.230 [Thread-20] INFO  org.quartz.core.QuartzScheduler - Scheduler RuoyiScheduler_$_xuwenhuideMacBook-Pro.local1543393552534 paused.
+08:16:29.250 [Thread-20] INFO  org.quartz.core.QuartzScheduler - Scheduler RuoyiScheduler_$_xuwenhuideMacBook-Pro.local1543393552534 shutting down.
+08:16:29.250 [Thread-20] INFO  org.quartz.core.QuartzScheduler - Scheduler RuoyiScheduler_$_xuwenhuideMacBook-Pro.local1543393552534 paused.
+08:16:29.252 [Thread-20] INFO  org.quartz.core.QuartzScheduler - Scheduler RuoyiScheduler_$_xuwenhuideMacBook-Pro.local1543393552534 shutdown complete.
+08:16:29.263 [Thread-20] INFO  com.alibaba.druid.pool.DruidDataSource - {dataSource-1} closed
